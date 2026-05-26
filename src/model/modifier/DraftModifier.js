@@ -61,9 +61,28 @@ const DraftModifier = {
       rangeToReplace,
     );
 
+    let resolvedEntity = entityKey || null;
+    if (entityKey === undefined && rangeToReplace.isCollapsed()) {
+      const blockKey = rangeToReplace.getStartKey();
+      const offset = rangeToReplace.getStartOffset();
+      const block = contentState.getBlockForKey(blockKey);
+      if (offset > 0 && offset < block.getLength()) {
+        const entitiesBefore = block.getEntityAt(offset - 1);
+        const entitiesAfter = block.getEntityAt(offset);
+        const common = entitiesBefore.filter(e => entitiesAfter.includes(e));
+        for (const e of common) {
+          const entity = contentState.getEntity(e);
+          if (entity.getMutability() === 'MUTABLE') {
+            resolvedEntity = e;
+            break;
+          }
+        }
+      }
+    }
+
     const character = CharacterMetadata.create({
       style: inlineStyle || OrderedSet(),
-      entity: entityKey || null,
+      entity: resolvedEntity,
     });
 
     return insertTextIntoContentState(
