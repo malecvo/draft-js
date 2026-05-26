@@ -13,7 +13,7 @@
 
 import type {DraftInlineStyle} from 'DraftInlineStyle';
 
-const {Map, OrderedSet, Record} = require('immutable');
+const {List, Map, OrderedSet, Record} = require('immutable');
 
 // Immutable.map is typed such that the value for every key in the map
 // must be the same type
@@ -32,10 +32,11 @@ type CharacterMetadataConfig = interface {
 };
 
 const EMPTY_SET = OrderedSet<string>();
+const EMPTY_LIST = List();
 
 const defaultRecord: CharacterMetadataConfig = {
   style: EMPTY_SET,
-  entity: null,
+  entity: EMPTY_LIST,
 };
 
 const CharacterMetadataRecord = (Record(defaultRecord): any);
@@ -45,8 +46,8 @@ class CharacterMetadata extends CharacterMetadataRecord {
     return this.get('style');
   }
 
-  getEntity(): ?string {
-    return this.get('entity');
+  getEntity(): Array<string> {
+    return this.get('entity').toArray();
   }
 
   hasStyle(style: string): boolean {
@@ -73,10 +74,15 @@ class CharacterMetadata extends CharacterMetadataRecord {
     record: CharacterMetadata,
     entityKey: ?string,
   ): CharacterMetadata {
-    const withEntity =
-      record.getEntity() === entityKey
-        ? record
-        : record.set('entity', entityKey);
+    if (entityKey === null) {
+      const cleared = record.set('entity', EMPTY_LIST);
+      return CharacterMetadata.create(cleared);
+    }
+    const currentEntities = record.get('entity');
+    if (currentEntities.includes(entityKey)) {
+      return record;
+    }
+    const withEntity = record.set('entity', currentEntities.push(entityKey));
     return CharacterMetadata.create(withEntity);
   }
 
@@ -93,20 +99,31 @@ class CharacterMetadata extends CharacterMetadataRecord {
 
     const defaultConfig: CharacterMetadataConfig = {
       style: EMPTY_SET,
-      entity: (null: ?string),
+      entity: EMPTY_LIST,
     };
 
     // Fill in unspecified properties, if necessary.
     // $FlowFixMe[incompatible-call] added when improving typing for this parameters
     const configMap = Map(defaultConfig).merge(config);
 
-    const existing: ?CharacterMetadata = pool.get(configMap);
+    // Normalize entity to List
+    let normalizedMap = configMap;
+    const entity = configMap.get('entity');
+    if (typeof entity === 'string') {
+      normalizedMap = configMap.set('entity', List([entity]));
+    } else if (entity === null || entity === undefined) {
+      normalizedMap = configMap.set('entity', EMPTY_LIST);
+    } else if (Array.isArray(entity)) {
+      normalizedMap = configMap.set('entity', List(entity));
+    }
+
+    const existing: ?CharacterMetadata = pool.get(normalizedMap);
     if (existing) {
       return existing;
     }
 
-    const newCharacter = new CharacterMetadata(configMap);
-    pool = pool.set(configMap, newCharacter);
+    const newCharacter = new CharacterMetadata(normalizedMap);
+    pool = pool.set(normalizedMap, newCharacter);
     return newCharacter;
   }
 
@@ -116,7 +133,7 @@ class CharacterMetadata extends CharacterMetadataRecord {
   }: CharacterMetadataRawConfig): CharacterMetadata {
     return new CharacterMetadata({
       style: Array.isArray(style) ? OrderedSet(style) : style,
-      entity: Array.isArray(entity) ? OrderedSet(entity) : entity,
+      entity: Array.isArray(entity) ? List(entity) : typeof entity === 'string' ? List([entity]) : entity === null ? EMPTY_LIST : entity,
     });
   }
 }

@@ -1,8 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`must apply entity correctly 1`] = `"x"`;
+exports[`must apply entity correctly 1`] = `
+Array [
+  "x",
+]
+`;
 
-exports[`must apply entity correctly 2`] = `"x"`;
+exports[`must apply entity correctly 2`] = `
+Array [
+  "a",
+  "x",
+]
+`;
 
 exports[`must apply style 1`] = `true`;
 
@@ -12,18 +21,18 @@ exports[`must apply style 3`] = `true`;
 
 exports[`must have appropriate default values 1`] = `
 Object {
-  "entity": null,
+  "entity": Array [],
   "style": Array [],
 }
 `;
 
 exports[`must have appropriate default values 2`] = `0`;
 
-exports[`must have appropriate default values 3`] = `null`;
+exports[`must have appropriate default values 3`] = `Array []`;
 
-exports[`must remove entity correctly 1`] = `null`;
+exports[`must remove entity correctly 1`] = `Array []`;
 
-exports[`must remove entity correctly 2`] = `null`;
+exports[`must remove entity correctly 2`] = `Array []`;
 
 exports[`must remove style 1`] = `true`;
 

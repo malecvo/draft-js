@@ -28,15 +28,16 @@ function encodeEntityRanges(
 ): Array<EntityRange> {
   const encoded = [];
   block.findEntityRanges(
-    character => !!character.getEntity(),
+    character => character.getEntity().length > 0,
     (/*number*/ start, /*number*/ end) => {
       const text = block.getText();
-      const key = block.getEntityAt(start);
-      encoded.push({
-        offset: strlen(text.slice(0, start)),
-        length: strlen(text.slice(start, end)),
-        // Encode the key as a number for range storage.
-        key: Number(storageMap[DraftStringKey.stringify(key)]),
+      const keys = block.getEntityAt(start);
+      keys.forEach(key => {
+        encoded.push({
+          offset: strlen(text.slice(0, start)),
+          length: strlen(text.slice(start, end)),
+          key: Number(storageMap[DraftStringKey.stringify(key)]),
+        });
       });
     },
   );

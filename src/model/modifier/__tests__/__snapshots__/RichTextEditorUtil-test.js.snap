@@ -12,23 +12,23 @@ exports[`onBackspace resets the current block type at the start of the first blo
 Object {
   "characterList": Array [
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
   ],
@@ -63,43 +63,43 @@ exports[`tryToRemoveBlockStyleonDelete breaks out of code block on enter two bla
 Object {
   "characterList": Array [
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [
         "ITALIC",
       ],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [
         "ITALIC",
       ],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [
         "ITALIC",
       ],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [
         "ITALIC",
       ],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [
         "ITALIC",
       ],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [
         "ITALIC",
       ],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [
         "ITALIC",
       ],

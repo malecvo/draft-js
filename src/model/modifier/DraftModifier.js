@@ -175,7 +175,38 @@ const DraftModifier = {
     }
 
     const withoutEntities = removeEntitiesAtEdges(contentState, rangeToRemove);
-    return removeRangeFromContentState(withoutEntities, rangeToRemove);
+
+    // Cascade: remove all entities that touch the deletion range
+    let cascaded = withoutEntities;
+    const removalBlock = cascaded.getBlockForKey(startKey);
+    const removalChars = removalBlock.getCharacterList();
+    const entitiesToRemove = new Set();
+    for (let i = startOffset; i < endOffset; i++) {
+      const c = removalChars.get(i);
+      if (c) {
+        c.getEntity().forEach(e => entitiesToRemove.add(e));
+      }
+    }
+    if (entitiesToRemove.size > 0) {
+      let newChars = removalChars;
+      for (let i = 0; i < newChars.count(); i++) {
+        const c = newChars.get(i);
+        const entities = c.get('entity');
+        const filtered = entities.filter(e => !entitiesToRemove.has(e));
+        if (filtered.size !== entities.size) {
+          newChars = newChars.set(
+            i,
+            CharacterMetadata.create(c.set('entity', filtered)),
+          );
+        }
+      }
+      const updatedBlock = removalBlock.set('characterList', newChars);
+      cascaded = cascaded.merge({
+        blockMap: cascaded.getBlockMap().set(startKey, updatedBlock),
+      });
+    }
+
+    return removeRangeFromContentState(cascaded, rangeToRemove);
   },
 
   splitBlock(

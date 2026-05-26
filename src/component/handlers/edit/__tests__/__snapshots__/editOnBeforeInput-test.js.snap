@@ -23,31 +23,31 @@ Immutable.Record {
       "characterList": Immutable.List [
         Immutable.Record {
           "style": Immutable.OrderedSet [],
-          "entity": null,
+          "entity": Immutable.List [],
         },
         Immutable.Record {
           "style": Immutable.OrderedSet [],
-          "entity": null,
+          "entity": Immutable.List [],
         },
         Immutable.Record {
           "style": Immutable.OrderedSet [],
-          "entity": null,
+          "entity": Immutable.List [],
         },
         Immutable.Record {
           "style": Immutable.OrderedSet [],
-          "entity": null,
+          "entity": Immutable.List [],
         },
         Immutable.Record {
           "style": Immutable.OrderedSet [],
-          "entity": null,
+          "entity": Immutable.List [],
         },
         Immutable.Record {
           "style": Immutable.OrderedSet [],
-          "entity": null,
+          "entity": Immutable.List [],
         },
         Immutable.Record {
           "style": Immutable.OrderedSet [],
-          "entity": null,
+          "entity": Immutable.List [],
         },
       ],
       "depth": 0,

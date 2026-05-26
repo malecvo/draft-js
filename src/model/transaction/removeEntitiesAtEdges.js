@@ -17,6 +17,7 @@ import type SelectionState from 'SelectionState';
 import type {List} from 'immutable';
 
 const CharacterMetadata = require('CharacterMetadata');
+const Immutable = require('immutable');
 
 const findRangesImmutable = require('findRangesImmutable');
 const invariant = require('invariant');
@@ -68,7 +69,7 @@ function removeEntitiesAtEdges(
  */
 function getRemovalRange(
   characters: List<CharacterMetadata>,
-  entityKey: ?string,
+  entityKey: string,
   offset: number,
 ): {
   start: number,
@@ -77,21 +78,12 @@ function getRemovalRange(
 } {
   let removalRange;
 
-  // Iterates through a list looking for ranges of matching items
-  // based on the 'isEqual' callback.
-  // Then instead of returning the result, call the 'found' callback
-  // with each range.
-  // Then filters those ranges based on the 'filter' callback
-  //
-  // Here we use it to find ranges of characters with the same entity key.
   findRangesImmutable(
-    characters, // the list to iterate through
-    (a, b) => a.getEntity() === b.getEntity(), // 'isEqual' callback
-    element => element.getEntity() === entityKey, // 'filter' callback
+    characters,
+    (a, b) => Immutable.is(a.get('entity'), b.get('entity')),
+    element => element.getEntity().indexOf(entityKey) >= 0,
     (start: number, end: number) => {
-      // 'found' callback
       if (start <= offset && end >= offset) {
-        // this entity overlaps the offset index
         removalRange = {start, end};
       }
     },
@@ -111,21 +103,30 @@ function removeForBlock(
   let chars = block.getCharacterList();
   const charBefore = offset > 0 ? chars.get(offset - 1) : undefined;
   const charAfter = offset < chars.count() ? chars.get(offset) : undefined;
-  const entityBeforeCursor = charBefore ? charBefore.getEntity() : undefined;
-  const entityAfterCursor = charAfter ? charAfter.getEntity() : undefined;
+  const entitiesBefore = charBefore ? charBefore.getEntity() : [];
+  const entitiesAfter = charAfter ? charAfter.getEntity() : [];
 
-  if (entityAfterCursor && entityAfterCursor === entityBeforeCursor) {
-    const entity = contentState.getEntity(entityAfterCursor);
+  const commonEntities = entitiesAfter.filter(e => entitiesBefore.indexOf(e) >= 0);
+
+  for (let idx = 0; idx < commonEntities.length; idx++) {
+    const entityKey = commonEntities[idx];
+    const entity = contentState.getEntity(entityKey);
     if (entity.getMutability() !== 'MUTABLE') {
-      let {start, end} = getRemovalRange(chars, entityAfterCursor, offset);
-      let current;
+      let {start, end} = getRemovalRange(chars, entityKey, offset);
       while (start < end) {
-        current = chars.get(start);
-        chars = chars.set(start, CharacterMetadata.applyEntity(current, null));
+        const current = chars.get(start);
+        const filtered = current.get('entity').filter(e => e !== entityKey);
+        chars = chars.set(
+          start,
+          CharacterMetadata.create(current.set('entity', filtered)),
+        );
         start++;
       }
-      return block.set('characterList', chars);
     }
+  }
+
+  if (chars !== block.getCharacterList()) {
+    return block.set('characterList', chars);
   }
 
   return block;

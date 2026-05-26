@@ -99,11 +99,11 @@ test('must correctly identify ranges of styles', () => {
 
 test('must properly retrieve entity at offset', () => {
   const block = getSampleBlock();
-  expect(block.getEntityAt(0)).toBe(entity_KEY);
-  expect(block.getEntityAt(1)).toBe(null);
-  expect(block.getEntityAt(2)).toBe(null);
-  expect(block.getEntityAt(3)).toBe(null);
-  expect(block.getEntityAt(4)).toBe(entity_KEY);
+  expect(block.getEntityAt(0)).toEqual([entity_KEY]);
+  expect(block.getEntityAt(1)).toEqual([]);
+  expect(block.getEntityAt(2)).toEqual([]);
+  expect(block.getEntityAt(3)).toEqual([]);
+  expect(block.getEntityAt(4)).toEqual([entity_KEY]);
 });
 
 test('must correctly identify ranges of entities', () => {

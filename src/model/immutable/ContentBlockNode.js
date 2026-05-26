@@ -59,7 +59,7 @@ const haveEqualStyle = (
 const haveEqualEntity = (
   charA: CharacterMetadata,
   charB: CharacterMetadata,
-): boolean => charA.getEntity() === charB.getEntity();
+): boolean => Immutable.is(charA.get('entity'), charB.get('entity'));
 
 const decorateCharacterList = (
   config: ContentBlockNodeConfig,
@@ -128,9 +128,9 @@ class ContentBlockNode
   }
 
   // $FlowFixMe[method-unbinding]
-  getEntityAt(offset: number): ?string {
+  getEntityAt(offset: number): Array<string> {
     const character = this.getCharacterList().get(offset);
-    return character ? character.getEntity() : null;
+    return character ? character.getEntity() : [];
   }
 
   getChildKeys(): List<BlockNodeKey> {

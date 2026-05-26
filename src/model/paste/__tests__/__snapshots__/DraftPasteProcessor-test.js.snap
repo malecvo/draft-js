@@ -5,60 +5,102 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+        ],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+        ],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "hellothere",
+    "text": "      hellothere ",
     "type": "unstyled",
   },
 ]
@@ -69,60 +111,102 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key5",
-    "text": "hellothere",
+    "text": "      hellothere ",
     "type": "unstyled",
   },
 ]
@@ -133,43 +217,43 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -187,23 +271,23 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -216,26 +300,43 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key3",
-    "text": "what",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key4",
+    "text": " what",
     "type": "paragraph",
   },
 ]
@@ -246,43 +347,43 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -302,48 +403,93 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "hi
+    "text": "      hi
 
-hello",
+hello
+    ",
     "type": "code-block",
   },
 ]
@@ -354,48 +500,61 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
-    "key": "key3",
-    "text": "hi",
-    "type": "paragraph",
-  },
-  Object {
-    "characterList": Array [
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-    ],
-    "data": Object {},
-    "depth": 0,
-    "key": "key4",
-    "text": "hello",
-    "type": "paragraph",
+    "key": "key2",
+    "text": "  hi
+ hello
+",
+    "type": "unstyled",
   },
 ]
 `;
@@ -405,32 +564,66 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "what
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key3",
+    "text": "  what
 ",
     "type": "unordered-list-item",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key6",
+    "text": " ",
+    "type": "unstyled",
   },
 ]
 `;
@@ -546,10 +739,17 @@ Array [
 exports[`must create nested elements when experimentalTreeDataSupport is enabled 1`] = `
 Array [
   Object {
-    "characterList": Array [],
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
     "children": Array [
       "key3",
       "key4",
+      "key5",
+      "key6",
     ],
     "data": Object {},
     "depth": 0,
@@ -557,109 +757,13 @@ Array [
     "nextSibling": null,
     "parent": null,
     "prevSibling": null,
-    "text": "",
+    "text": " ",
     "type": "blockquote",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -670,59 +774,189 @@ Array [
     "nextSibling": "key4",
     "parent": "key2",
     "prevSibling": null,
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "children": Array [],
+    "data": Object {},
+    "depth": 0,
+    "key": "key4",
+    "nextSibling": "key5",
+    "parent": "key2",
+    "prevSibling": "key3",
     "text": "Heading inside blockquote",
     "type": "header-two",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "children": Array [],
+    "data": Object {},
+    "depth": 0,
+    "key": "key5",
+    "nextSibling": "key6",
+    "parent": "key2",
+    "prevSibling": "key4",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
@@ -731,10 +965,10 @@ Array [
     "children": Array [],
     "data": Object {},
     "depth": 0,
-    "key": "key4",
+    "key": "key6",
     "nextSibling": null,
     "parent": "key2",
-    "prevSibling": "key3",
+    "prevSibling": "key5",
     "text": "some text",
     "type": "paragraph",
   },
@@ -746,83 +980,91 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -840,11 +1082,11 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -857,17 +1099,30 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key3",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key4",
     "text": "hi",
     "type": "header-two",
   },
@@ -879,48 +1134,87 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "hi",
-    "type": "ordered-list-item",
+    "text": " ",
+    "type": "unstyled",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key3",
+    "text": "hi",
+    "type": "ordered-list-item",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key4",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key5",
     "text": "there",
     "type": "ordered-list-item",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key6",
+    "text": " ",
+    "type": "unstyled",
   },
 ]
 `;
@@ -930,45 +1224,45 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -986,63 +1280,99 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [
           "ITALIC",
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
@@ -1051,7 +1381,7 @@ Array [
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "he      hi",
+    "text": " he      hi     ",
     "type": "unstyled",
   },
 ]
@@ -1062,83 +1392,83 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -1156,83 +1486,83 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -1250,84 +1580,130 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "hi",
-    "type": "header-one",
-  },
-  Object {
-    "characterList": Array [],
-    "data": Object {},
-    "depth": 0,
-    "key": "key3",
-    "text": "",
+    "text": " hi ",
     "type": "header-one",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key3",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key4",
-    "text": "whatever",
-    "type": "unstyled",
+    "text": " ",
+    "type": "header-one",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key5",
-    "text": "hi",
+    "text": "  whatever  ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key6",
+    "text": "hi ",
     "type": "header-two",
   },
 ]
@@ -1338,46 +1714,66 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "Word    ,",
+    "text": "   Word    ,  ",
     "type": "paragraph",
   },
 ]
@@ -1388,99 +1784,135 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
-          "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
-          "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
-          "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
-          "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
-          "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
-          "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [
+          "BOLD",
+          "ITALIC",
+        ],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "Bold Italic  .",
+    "text": "      Bold Italic  .",
     "type": "unstyled",
   },
 ]
@@ -1491,136 +1923,292 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "what",
+    "text": "what     ",
     "type": "unstyled",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key3",
-    "text": "what",
-    "type": "unordered-list-item",
+    "text": " ",
+    "type": "unstyled",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key4",
-    "text": "whatone
-two
+    "text": "what",
+    "type": "unordered-list-item",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key5",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key6",
+    "text": "          what          one
+ two
 ",
     "type": "unordered-list-item",
   },
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
-    "key": "key8",
+    "key": "key12",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key13",
     "text": "what",
     "type": "unordered-list-item",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key14",
+    "text": " ",
+    "type": "unstyled",
   },
 ]
 `;
@@ -1630,83 +2218,91 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -1724,55 +2320,100 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "hello
-there",
+    "text": "      hello
+there
+    ",
     "type": "code-block",
   },
 ]
@@ -1783,55 +2424,100 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "hello
-there",
+    "text": "      hello
+there
+    ",
     "type": "code-block",
   },
 ]
@@ -1842,35 +2528,35 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -1888,35 +2574,35 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -1934,35 +2620,35 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -1980,79 +2666,97 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -2070,35 +2774,35 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -2117,54 +2821,98 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key2",
-    "text": "hello there",
+    "text": "      hello there     ",
     "type": "unstyled",
   },
 ]
@@ -2175,39 +2923,39 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -2227,31 +2975,31 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -2269,11 +3017,11 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -2286,29 +3034,42 @@ Array [
   Object {
     "characterList": Array [
       Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
-        "style": Array [],
-      },
-      Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
     "data": Object {},
     "depth": 0,
     "key": "key3",
+    "text": " ",
+    "type": "unstyled",
+  },
+  Object {
+    "characterList": Array [
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+      Object {
+        "entity": Array [],
+        "style": Array [],
+      },
+    ],
+    "data": Object {},
+    "depth": 0,
+    "key": "key4",
     "text": "hello",
     "type": "unstyled",
   },

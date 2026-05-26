@@ -84,23 +84,18 @@ const encodeRawBlocks = (
 
   contentState.getBlockMap().forEach(block => {
     block.findEntityRanges(
-      character => character.getEntity() !== null,
+      character => character.getEntity().length > 0,
       start => {
-        const entityKey = block.getEntityAt(start);
-        // Stringify to maintain order of otherwise numeric keys.
-        const stringifiedEntityKey = DraftStringKey.stringify(entityKey);
-        // This makes this function resilient to two entities
-        // erroneously having the same key
-        if (entityCacheRef[stringifiedEntityKey]) {
-          return;
-        }
-        entityCacheRef[stringifiedEntityKey] = entityKey;
-        // we need the `any` casting here since this is a temporary state
-        // where we will later on flip the entity map and populate it with
-        // real entity, at this stage we just need to map back the entity
-        // key used by the BlockNode
-        entityMap[stringifiedEntityKey] = (`${entityStorageKey}`: any);
-        entityStorageKey++;
+        const entityKeys = block.getEntityAt(start);
+        entityKeys.forEach(entityKey => {
+          const stringifiedEntityKey = DraftStringKey.stringify(entityKey);
+          if (entityCacheRef[stringifiedEntityKey]) {
+            return;
+          }
+          entityCacheRef[stringifiedEntityKey] = entityKey;
+          entityMap[stringifiedEntityKey] = (`${entityStorageKey}`: any);
+          entityStorageKey++;
+        });
       },
     );
 

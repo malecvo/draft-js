@@ -4,23 +4,27 @@ exports[`must apply at the end 1`] = `
 Object {
   "characterList": Array [
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
   ],
@@ -36,23 +40,27 @@ exports[`must apply from the start 1`] = `
 Object {
   "characterList": Array [
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
   ],
@@ -68,23 +76,33 @@ exports[`must apply to the entire text 1`] = `
 Object {
   "characterList": Array [
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
   ],
@@ -100,23 +118,29 @@ exports[`must apply within 1`] = `
 Object {
   "characterList": Array [
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": "x",
+      "entity": Array [
+        "x",
+      ],
       "style": Array [],
     },
     Object {
-      "entity": null,
+      "entity": Array [],
       "style": Array [],
     },
   ],

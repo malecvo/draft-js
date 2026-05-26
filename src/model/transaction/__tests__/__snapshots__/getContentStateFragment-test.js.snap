@@ -5,23 +5,23 @@ Object {
   "key4": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -52,31 +52,31 @@ Object {
   "key6": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -93,23 +93,23 @@ Object {
   "key7": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -131,23 +131,23 @@ Object {
   "key0": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -160,19 +160,19 @@ Object {
   "key1": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -185,31 +185,31 @@ Object {
   "key2": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -222,23 +222,23 @@ Object {
   "key3": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -270,31 +270,31 @@ Object {
   "key11": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -316,19 +316,19 @@ Object {
   "key8": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -341,31 +341,31 @@ Object {
   "key9": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -383,23 +383,23 @@ Object {
   "key12": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -417,23 +417,23 @@ Object {
   "key13": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -455,23 +455,23 @@ Object {
   "key14": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -489,23 +489,23 @@ Object {
   "key15": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],

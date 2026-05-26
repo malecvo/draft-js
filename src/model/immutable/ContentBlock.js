@@ -96,9 +96,9 @@ class ContentBlock extends ContentBlockRecord implements BlockNode {
   }
 
   // $FlowFixMe[method-unbinding]
-  getEntityAt(offset: number): ?string {
+  getEntityAt(offset: number): Array<string> {
     const character = this.getCharacterList().get(offset);
-    return character ? character.getEntity() : null;
+    return character ? character.getEntity() : [];
   }
 
   /**
@@ -145,7 +145,7 @@ function haveEqualEntity(
   charA: CharacterMetadata,
   charB: CharacterMetadata,
 ): boolean {
-  return charA.getEntity() === charB.getEntity();
+  return Immutable.is(charA.get('entity'), charB.get('entity'));
 }
 
 module.exports = ContentBlock;

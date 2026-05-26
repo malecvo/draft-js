@@ -7,23 +7,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -56,19 +56,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -85,31 +85,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -126,23 +126,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -164,23 +164,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -213,19 +213,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -242,31 +242,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -283,23 +283,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -321,23 +321,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -370,19 +370,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -399,31 +399,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -440,23 +440,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -478,23 +478,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -525,19 +525,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -554,31 +554,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -595,23 +595,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -633,23 +633,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -680,19 +680,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -709,31 +709,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -755,23 +755,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -802,19 +802,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -831,31 +831,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -877,23 +877,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -925,19 +925,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -968,31 +968,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1009,23 +1009,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1063,23 +1063,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1096,19 +1096,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1125,31 +1125,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1166,23 +1166,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1204,23 +1204,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1252,19 +1252,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1281,31 +1281,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1322,23 +1322,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1375,23 +1375,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1423,19 +1423,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1452,31 +1452,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1498,23 +1498,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1547,19 +1547,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1576,31 +1576,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1617,23 +1617,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1655,23 +1655,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1703,19 +1703,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1732,31 +1732,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1773,23 +1773,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1811,23 +1811,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1861,19 +1861,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1890,31 +1890,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1931,23 +1931,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -1964,31 +1964,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2010,23 +2010,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2043,19 +2043,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2072,31 +2072,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2118,23 +2118,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2151,19 +2151,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2194,31 +2194,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2235,23 +2235,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2289,23 +2289,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2322,19 +2322,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2365,31 +2365,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2411,23 +2411,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2458,19 +2458,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2487,31 +2487,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2528,23 +2528,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2582,23 +2582,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2629,19 +2629,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2658,31 +2658,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2704,23 +2704,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2737,19 +2737,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2766,31 +2766,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2812,19 +2812,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2841,31 +2841,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2887,23 +2887,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2920,19 +2920,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -2954,23 +2954,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -3002,19 +3002,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -3031,31 +3031,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -3077,23 +3077,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -3125,19 +3125,19 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -3154,31 +3154,31 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},
@@ -3195,23 +3195,23 @@ Immutable.OrderedMap {
     "characterList": Immutable.List [
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
       Immutable.Record {
         "style": Immutable.OrderedSet [],
-        "entity": null,
+        "entity": Immutable.List [],
       },
     ],
     "data": Immutable.Map {},

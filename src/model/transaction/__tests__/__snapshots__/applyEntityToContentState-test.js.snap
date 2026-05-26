@@ -5,23 +5,33 @@ Object {
   "a": Object {
     "characterList": Array [
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
     ],
@@ -34,31 +44,41 @@ Object {
   "b": Object {
     "characterList": Array [
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
@@ -73,19 +93,19 @@ Object {
   "c": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -114,43 +134,43 @@ Object {
   "f": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
@@ -170,23 +190,33 @@ Object {
   "a": Object {
     "characterList": Array [
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "x",
+        ],
         "style": Array [],
       },
     ],
@@ -199,31 +229,46 @@ Object {
   "b": Object {
     "characterList": Array [
       Object {
-        "entity": "x",
+        "entity": Array [
+          "2",
+          "x",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "2",
+          "x",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "2",
+          "x",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "2",
+          "x",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "x",
+        "entity": Array [
+          "2",
+          "x",
+        ],
         "style": Array [
           "BOLD",
         ],
@@ -238,19 +283,19 @@ Object {
   "c": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -279,43 +324,43 @@ Object {
   "f": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
@@ -335,23 +380,23 @@ Object {
   "a": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -364,31 +409,41 @@ Object {
   "b": Object {
     "characterList": Array [
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": "2",
+        "entity": Array [
+          "2",
+        ],
         "style": Array [
           "BOLD",
         ],
@@ -403,19 +458,19 @@ Object {
   "c": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -444,43 +499,43 @@ Object {
   "f": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
@@ -500,23 +555,23 @@ Object {
   "a": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -529,31 +584,31 @@ Object {
   "b": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "BOLD",
         ],
@@ -568,19 +623,19 @@ Object {
   "c": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [],
       },
     ],
@@ -609,43 +664,43 @@ Object {
   "f": Object {
     "characterList": Array [
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],
       },
       Object {
-        "entity": null,
+        "entity": Array [],
         "style": Array [
           "ITALIC",
         ],

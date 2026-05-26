@@ -51,37 +51,45 @@ exports[`must have appropriate default values 5`] = `5`;
 exports[`must have appropriate default values 6`] = `
 Array [
   Object {
-    "entity": null,
+    "entity": Array [],
     "style": Array [],
   },
   Object {
-    "entity": null,
+    "entity": Array [],
     "style": Array [],
   },
   Object {
-    "entity": null,
+    "entity": Array [],
     "style": Array [],
   },
   Object {
-    "entity": null,
+    "entity": Array [],
     "style": Array [],
   },
   Object {
-    "entity": null,
+    "entity": Array [],
     "style": Array [],
   },
 ]
 `;
 
-exports[`must properly retrieve entity at offset 1`] = `"x"`;
+exports[`must properly retrieve entity at offset 1`] = `
+Array [
+  "x",
+]
+`;
 
-exports[`must properly retrieve entity at offset 2`] = `null`;
+exports[`must properly retrieve entity at offset 2`] = `Array []`;
 
-exports[`must properly retrieve entity at offset 3`] = `null`;
+exports[`must properly retrieve entity at offset 3`] = `Array []`;
 
-exports[`must properly retrieve entity at offset 4`] = `null`;
+exports[`must properly retrieve entity at offset 4`] = `Array []`;
 
-exports[`must properly retrieve entity at offset 5`] = `"x"`;
+exports[`must properly retrieve entity at offset 5`] = `
+Array [
+  "x",
+]
+`;
 
 exports[`must properly retrieve style at offset 1`] = `
 Array [
